@@ -1,0 +1,11 @@
+/*start font */
+@font-face {
+	font-family:'MyanmarThree';
+	src: url('../fonts/myanmar3.woff') format('woff'), url('../fonts/myanmar3.ttf') format('ttf');
+}
+
+.unicode, .unicode *
+{
+	font-family:MyanmarThree,'Masterpiece Uni Sans' !important;
+}
+/*end font */
